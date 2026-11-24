@@ -1,0 +1,1 @@
+Coloque aqui os audios MP3 do Nelson, com o nome exato da coluna "Arquivo" da planilha (ex.: oi_volta.mp3).
