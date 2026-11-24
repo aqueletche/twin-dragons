@@ -1,0 +1,4 @@
+# instaladores e arquivos temporarios
+*.exe
+~$*
+vozes/elevenlabs/
